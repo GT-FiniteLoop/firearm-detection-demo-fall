@@ -1,0 +1,8 @@
+piztol.zip
+nerf.zip
+training_dataset/
+inception/
+test/downloads/
+tf_files/
+.DS_Store
+test/.DS_Store
